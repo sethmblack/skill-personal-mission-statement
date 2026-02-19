@@ -4,7 +4,7 @@ description: Guide the development of a principle-centered personal constitution
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4667
+  version: 1.0.4668
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - personal-mission-statement
